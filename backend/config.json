@@ -1,0 +1,14 @@
+{
+  "goods_id": 871721,
+  "item_name": "★ Karambit | Lore (Battle-Scarred) - 弯刀 传说 久经沙场",
+  "target_price": 690.0,
+  "purchase_price": 690.0,
+  "check_time": "20:00",
+  "api_host": "127.0.0.1",
+  "api_port": 8765,
+  "price_history_days": 30,
+  "request_interval_seconds": 3,
+  "request_timeout_seconds": 10,
+  "cookie": "_clck=1tynt9p%5E2%5Eg3r%5E0%5E2243; _ga=GA1.1.1310116847.1771678668; _ga_C6TGHFPQ1H=GS2.1.s1771678667$o1$g0$t1771678681$j46$l0$h0; csrf_token=IjczNmUyZmZiOGM5NjdjNjUxYWEyY2NhNTJiYTNmZDEzOGU0MjQyNTIi.al7Eww.G4l_dgJNApYr5CjWdWuqT7lm8Dg; Device-Id=2dMxTMIjYo4DkTbzD4OX; game=csgo; Locale-Supported=zh-Hans; NTES_P_UTID=YKuimUJ3fLgDUioS2aKuedI3Pm7giWvk|1770802831; nts_mail_user=18631966373@163.com:-1:1; P_INFO=18631966373|1776690392|1|phoenix_client|00&99|null&null&null#heb&131000#10#0|&0||18631966373; qr_code_verify_ticket=47eEHgv9741acbe7bf200f258e7e9f55ff34; remember_me=U1089883445|iGHHdeqDEpyDtEtkWFaUBgowrSRsjJb1; sensorsdata2015jssdkcross=%7B%22distinct_id%22%3A%2219d1a7946f11c45-0afc590e41e0f5-4c657b58-1821369-19d1a7946f2d14%22%2C%22first_id%22%3A%22%22%2C%22props%22%3A%7B%22%24latest_traffic_source_type%22%3A%22%E7%9B%B4%E6%8E%A5%E6%B5%81%E9%87%8F%22%2C%22%24latest_search_keyword%22%3A%22%E6%9C%AA%E5%8F%96%E5%88%B0%E5%80%BC_%E7%9B%B4%E6%8E%A5%E6%89%93%E5%BC%80%22%2C%22%24latest_referrer%22%3A%22%22%7D%2C%22identities%22%3A%22eyIkaWRlbnRpdHlfY29va2llX2lkIjoiMTlkMWE3OTQ2ZjExYzQ1LTBhZmM1OTBlNDFlMGY1LTRjNjU3YjU4LTE4MjEzNjktMTlkMWE3OTQ2ZjJkMTQifQ%3D%3D%22%2C%22history_login_id%22%3A%7B%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D%7D; session=1-2lgfu0Ggb3VF6KjZ8mJxmfeD5ZXfJclJDPXQIPoqucqC2016989805",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+}

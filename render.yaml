@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: csgo-price-tracker
+    env: python
+    buildCommand: |
+      cd frontend && npm install && npm run build
+      pip install -r backend/requirements.txt
+    startCommand: python backend/main.py
+    envVars:
+      - key: PORT
+        value: 8000
+      - key: PYTHONPATH
+        value: backend
+    plan: free
